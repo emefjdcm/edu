@@ -241,6 +241,12 @@ float: left;
   align-content: center;
 }
 
+.foto-contato {
+  width: 300px;
+  padding: 10px;
+  align-content: center;
+}
+
 .cartao {
     background-color:#F0F0F0;
     border: 2px solid orange;
