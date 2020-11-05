@@ -242,8 +242,9 @@ float: left;
 }
 
 .foto-contato {
-   width: 150px;
-  padding: 6px;
+  width: 150px;
+  align-content: center;
+  padding: 10px;
 }
 
 .cartao {
