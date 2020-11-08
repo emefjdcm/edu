@@ -93,7 +93,7 @@ border-radius: 5px;
 }
 
 #subtitulo {
-  background-color:lightgray;
+  background-color:rgba(192,192,192,0.8);
   border: 2px solid orange;
   padding: 0px;
   margin-top: 8px;
