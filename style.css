@@ -273,6 +273,14 @@ float: left;
     border-radius: 25px;
 }
 
+.cartao3{
+    background-color:#F0F0F0;
+    border: 2px solid orange;
+    padding: 10px 50px 50px 10px;
+    margin-top: 6px;
+    border-radius: 25px;
+}
+
 .botao{display:block;
   width: 220px;
     background-color:red;
