@@ -126,6 +126,13 @@ p{
     font-weight: bolder;
 }
 
+.p_center2{
+    font-family: 'Modak', cursive;
+    text-align: center;
+    padding-left:10px;
+    padding-right:10px;
+}
+
 li{
     font-family: 'Modak', cursive;
 }
