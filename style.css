@@ -268,7 +268,7 @@ float: left;
 .cartao2{
     background-color:#F0F0F0;
     border: 2px solid orange;
-    padding: 10px 50px 50px 10px;
+    padding: 60px;
     margin-top: 6px;
     border-radius: 25px;
 }
@@ -276,7 +276,7 @@ float: left;
 .cartao3{
     background-color:#F0F0F0;
     border: 2px solid orange;
-    padding: 10px 50px 50px 10px;
+    padding: 25px;
     margin-top: 6px;
     border-radius: 25px;
 }
