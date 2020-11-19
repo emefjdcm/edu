@@ -268,7 +268,8 @@ float: left;
 .cartao2{
     background-color:#F0F0F0;
     border: 2px solid orange;
-    padding-left: 80px;
+    padding-left: auto;
+    padding-right: auto;
     margin-top: 6px;
     border-radius: 25px;
 }
